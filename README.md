@@ -1,4 +1,5 @@
 # AI-Personal-Trainer
+Sample Video Link: https://www.pexels.com/video/woman-in-pink-and-gray-sports-gear-exercising-outdoors-2785531/
 Screen shot Of Out Put
 ![Screenshot (16)](https://user-images.githubusercontent.com/46403000/189676511-2196e407-3498-4110-983b-bf51ea73d6d0.png)
 
