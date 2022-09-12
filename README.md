@@ -31,6 +31,12 @@ Resources
 
 
 
+![image](https://user-images.githubusercontent.com/46403000/188636181-9c7f6c05-5f85-494c-810a-fde08e34f470.png)
+
+
+
+
+
 
 
 To Connect My Linked In
